@@ -1,0 +1,11 @@
+Resultado,Valor
+Casos analizados,5.383 en 250 registros
+Zona Andina frente a la Amazonía,"25.2 × (p < 0,001)"
+Caribe frente a la Amazonía,"6.7 × (p < 0,001)"
+Pacífico frente a la Amazonía,"6.7 × (p < 0,001)"
+Orinoquía frente a la Amazonía,"2.1 × (p < 0,001)"
+Efecto del año,no significativo (p = 0.352)
+R² de Nagelkerke,0.970
+Desviación,de 1054.10 a 272.59
+Regresión lineal: R²,0.696
+Regresión lineal: zonas con intervalo negativo,"AMAZ, ORIN"
