@@ -1,6 +1,6 @@
 # Análisis estadístico espacio-temporal del cáncer infantil en Colombia, 2020–2024
 
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MariaClareth/Monitoreo-del-cancer-infantil-en-Colombia/blob/main/notebooks/analisis_cancer_infantil.ipynb)
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XlZhGf2z0GfnsPQJmKEH-Ayo9WeLsgAe#scrollTo=3e31931f)
 
 Análisis estadístico espacio - temporal para los datos de conteo del cáncer infantil en Colombia: 2020-2024
 
