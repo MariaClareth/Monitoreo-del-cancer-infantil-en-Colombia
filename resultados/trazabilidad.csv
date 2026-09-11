@@ -1,8 +1,0 @@
-paso,entran,descartadas,quedan,motivo
-Unión de los 5 archivos,5413,0,5413,
-Eliminar CONSECUTIVE repetidos,5413,0,5413,
-Selección de variables,5413,0,5413,
-Construcción de base_completa,5413,0,5413,
-Descartar registros sin zona,5413,27,5386,residencia en el exterior
-Descartar zona insular,5386,3,5383,San Andrés: conteos insuficientes
-Agregar a zona × año × edad × sexo,5383,0,5383,
