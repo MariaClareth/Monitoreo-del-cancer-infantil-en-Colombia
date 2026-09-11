@@ -2,14 +2,11 @@
 
 [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MariaClareth/Monitoreo-del-cancer-infantil-en-Colombia/blob/main/notebooks/analisis_cancer_infantil.ipynb)
 
-Modelos de conteo aplicados a los casos de cáncer infantil notificados al sistema de
-vigilancia en Colombia entre 2020 y 2024.
+Análisis estadístico espacio - temporal para los datos de conteo del cáncer infantil en Colombia: 2020-2024
 
 **Grupo de investigación GEMMA** — Estadística y Modelamiento Matemático Aplicado a la
 Calidad Educativa, Universidad de Sucre.
 Nohelis Muslaco Bohorquez · Maria Mendez R. · Melba Vertel M.
-
-Presentado en la 3.ª Feria de Innovación, Universidad de Córdoba (CONASIE 2026).
 
 ---
 
