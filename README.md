@@ -1,12 +1,12 @@
 # Análisis estadístico espacio-temporal del cáncer infantil en Colombia, 2020–2024
 
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XlZhGf2z0GfnsPQJmKEH-Ayo9WeLsgAe#scrollTo=3e31931f)
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rHCddM8TdWPJZnwlxNxrIG17fXRGEckY#scrollTo=47436e12)
 
 Análisis estadístico espacio - temporal para los datos de conteo del cáncer infantil en Colombia: 2020-2024
 
 **Grupo de investigación GEMMA** — Estadística y Modelamiento Matemático Aplicado a la
 Calidad Educativa, Universidad de Sucre.
-Nohelis Muslaco Bohorquez · Maria Mendez R. · Melba Vertel M.
+Nohelis Muslaco Bohorquez, Maria Mendez Ramos, Melba Vertel Morinson.
 
 ---
 
