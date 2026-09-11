@@ -22,12 +22,12 @@ Nohelis Muslaco Bohorquez, Maria Mendez Ramos, Melba Vertel Morinson.
 | Desviación | de 1.054,10 (modelo nulo) a 272,59 |
 | Regresión lineal comparativa | R² = 0,696, con intervalos de predicción negativos |
 
-La conclusión corta: **la zona explica casi todo y el año no explica nada**. Entre 2020 y
+La conclusión corta: **la zona explica casi todo y el año no explica**. Entre 2020 y
 2024 el patrón geográfico se mantuvo estable.
 
 El modelo lineal ordinario se ajustó solo como comparación y falla de forma visible:
-predice para la Amazonía en 2020 un intervalo de **−3,85 a 7,51 casos**. Un conteo
-negativo no existe, y por eso el análisis usa un modelo para datos de conteo.
+predice para la Amazonía en 2020 un intervalo de **−3,85 a 7,51 casos**. 
+Un conteo negativo no existe, y por eso el análisis usa un modelo para datos de conteo.
 
 ## Cómo reproducirlo
 
@@ -69,10 +69,11 @@ el modelo de Poisson no admite y que estos conteos sí presentan.
 ## Nota sobre los datos
 
 `base_completa.csv` contiene registros individuales de notificación de cáncer en menores
-de 18 años. No incluye nombres ni documentos, pero sí edad, sexo, semana epidemiológica y
-municipio. Antes de difundir el repositorio conviene verificar que la base provenga de un
-conjunto de datos abiertos ya publicado. `DataE.csv`, que es lo que alimenta los modelos,
-está agregado y no permite identificar a nadie.
+de 18 años, reportado por el Sistema de Vigilancia de Salud Publica en Colombia.
+No incluye nombres ni documentos, pero sí edad, sexo, semana epidemiológica y
+municipio.
+
+`DataE.csv`, es la base de datos depurada y tratada que alimenta los modelos.
 
 ## Licencia
 
